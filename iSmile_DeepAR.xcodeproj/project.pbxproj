@@ -347,7 +347,7 @@
 				DEVELOPMENT_TEAM = W2BA2D68XB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSCameraUsageDescription = "$(PRODUCT NAME) needed to use app";
+				INFOPLIST_KEY_NSCameraUsageDescription = " needed to use app";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -379,7 +379,7 @@
 				DEVELOPMENT_TEAM = W2BA2D68XB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSCameraUsageDescription = "$(PRODUCT NAME) needed to use app";
+				INFOPLIST_KEY_NSCameraUsageDescription = " needed to use app";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

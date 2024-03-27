@@ -10,7 +10,7 @@ import Foundation
 
 class SmileChecker {
     private var timer: Timer?
-    private let threshold: TimeInterval = 3 // 3 seconds
+    private let threshold: TimeInterval = 1.2 // 3 seconds
     var success: Bool = false
     var isDetectionActive: Bool = true
 
