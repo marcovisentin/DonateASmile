@@ -1,4 +1,4 @@
-## 🌟 iSmile 🌟
+## 🌟 DonateASmile 🌟
 
 
 Welcome to the iSmile app, where your smiles bring joy not just to you, but to those in need! 
